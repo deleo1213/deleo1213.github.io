@@ -1,0 +1,42 @@
+@font-face {
+font-family: "Roboto-black";
+src: url(/fonts/Roboto/Roboto-Black.ttf);
+font-weight: 500;}
+
+@font-face {
+font-family: "Roboto-italic";
+src: url(/fonts/Roboto/Roboto-Italic.ttf);
+font-weight: 400;
+}
+@font-face {
+font-family: "Roboto-BlackItalic";
+src: url(/fonts/Roboto/Roboto-BlackItalic.ttf);
+font-weight: 400;
+}
+html{
+    text-align: center;
+}
+
+
+body{
+    background-color:#046604;
+}
+
+h1 {
+    color: floralwhite;
+  font-family: "Roboto-italic";
+  text-transform: none;
+  box-shadow: black;
+text-shadow: 5px 5px 8px black;
+}
+h2{
+    color: rgb(150, 5, 5);
+    text-transform: capitalize;
+   font-family: "Roboto-italic"; 
+   font-weight: 600;
+   margin: 2px;
+   text-shadow: 5, 5, 100;
+}
+img {height: 400px;
+    width: 500px;
+}
