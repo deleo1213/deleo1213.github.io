@@ -40,3 +40,10 @@ h2{
 img {height: 400px;
     width: 500px;
 }
+table{
+    color: rgb(127, 180, 130);
+    margin-left: 550px;
+    margin-top: 100px;
+    font-family: "Roboto-BlackItalic";
+    text-shadow: 5px 5px 8px green;
+}
